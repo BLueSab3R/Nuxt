@@ -7,5 +7,4 @@
 
 <script setup>
 const firstLesson = useFirstLesson();
-console.log(firstLesson);
 </script>
