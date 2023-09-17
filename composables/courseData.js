@@ -20,7 +20,7 @@ export default {
                     slug: '2-typescript-in-vue-components',
                     number: 2,
                     downloadUrl: 'https://vueschool.io/lessons/typescript-in-vue-components',
-                    sourceUrl:'https://vueschool.io/lessons/typescript-in-vue-components',
+                    sourceUrl: 'https://vueschool.io/lessons/typescript-in-vue-components',
                     videoId: 684012498,
                     text: 'In this lesson, we learn how to direct Vue Single File віфвфіов воіф водцу ак аукау кауцк пауцк пкао3а ук укошпек пке пекзопо ек пекоп екшзп екозп екодп епшзе пшзп 45лз4 ккшз 34шзг укшп екпо екзпш епзш4 ц4 опе4олпекп94пзш4 п4озп 45шзп 54шз'
                 },
@@ -46,7 +46,7 @@ export default {
                     slug: 'something',
                     number: 1,
                     text: 'text for something',
-                    sourceUrl:'https://vueschool.io/lessons/typescript-in-vue-components',
+                    sourceUrl: 'https://vueschool.io/lessons/typescript-in-vue-components',
                 },
             ]
         }
